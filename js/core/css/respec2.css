@@ -4,9 +4,9 @@
  *****************************************************************/
 
 /* Override code highlighter background */
-.hljs {
+/*.hljs {
   background: transparent !important;
-}
+}*/
 
 /* --- INLINES --- */
 h1 abbr,

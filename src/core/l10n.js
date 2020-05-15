@@ -18,7 +18,7 @@ if (html && !html.hasAttribute("lang")) {
 // We use en-US as the base
 const base = {
   about_respec: "About",
-  abstract: "Abstract",
+  abstract: "What is the OpenAPI Specification?",
   author: "Author:",
   authors: "Authors:",
   bug_tracker: "Bug tracker:",
